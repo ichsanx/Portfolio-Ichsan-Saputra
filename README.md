@@ -143,10 +143,10 @@ It reflects my capability to design, analyze, and develop full-stack application
 
 ## 🎓 Education
 
-**Bachelor Degree** - *S1 (Information Technology – STMIK Mercusuar)*
-After graduating from vocational high school in 2010, I pursued my passion for technology by enrolling at STMIK Mercusuar, majoring in Information Technology (Teknik Informatika).
-During my studies, I built a strong foundation in computer science, software development, database management, and web programming.
-Throughout the program, I also developed several projects that combined both technical and analytical skills, which later strengthened my professional direction toward data analytics and software engineering.
+**Bachelor Degree** – *S1 (Information Technology – STMIK Mercusuar)*  
+After graduating from vocational high school in 2010, I pursued my passion for technology by enrolling at STMIK Mercusuar, majoring in Information Technology (Teknik Informatika).  
+During my studies, I built a strong foundation in computer science, software development, database management, and web programming.  
+Throughout the program, I also developed several projects that combined both technical and analytical skills, which later strengthened my professional direction toward data analytics and software engineering.  
 📅 *Graduated: August 26, 2014*
 
 **WebHozz Training Center** – *Web Development Course (PHP & MySQL)*  
